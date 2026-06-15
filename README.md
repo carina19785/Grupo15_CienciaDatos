@@ -12,8 +12,8 @@
 
 Este proyecto aplica técnicas de **Ciencia de Datos y Machine Learning** sobre un dataset clínico de enfermedades cardiovasculares. El objetivo es construir y evaluar modelos predictivos capaces de identificar, a partir de variables clínicas y de estilo de vida, si un paciente presenta o no una patología cardíaca.
 
-**Institución:** UPATecO — Tecnicatura Universitaria en Ciencia de Datos e IA  
-**Materia:** Ciencia de Datos y Optimización de Sistemas  
+**Carrera:** Tecnicatura Universitaria en Ciencia de Datos e IA  
+**Materia:** Ciencia de Datos e IA  
 **Docente:** Prof. Amalia Guaymas Canavire  
 
 **Integrantes del Grupo 15:**
