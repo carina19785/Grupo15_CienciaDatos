@@ -39,10 +39,8 @@ grupo15/
 ├── grupo15_2daEntrega.ipynb   # Notebook principal (2da entrega)
 ├── README.md                  # Este archivo
 └── Data/
-    └── health_data.csv        # Dataset de Kaggle (no incluido en el repo)
+    └── health_data.csv        # Dataset de Kaggle (incluido en el drive)
 ```
-
-> **Nota:** El dataset `health_data.csv` debe descargarse de Kaggle y colocarse en la carpeta `Data/` antes de ejecutar el notebook.
 
 ---
 
