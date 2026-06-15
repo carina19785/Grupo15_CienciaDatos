@@ -4,11 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow?logo=jupyter)
 ![Estado](https://img.shields.io/badge/Estado-2da%20Entrega-green)
-
 </div>
-
 ---
 
 ## 📋 Descripción General
