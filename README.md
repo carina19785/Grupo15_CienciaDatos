@@ -40,6 +40,7 @@ grupo15/
 ├── README.md                  # Este archivo
 └── Data/
     └── health_data.csv        # Dataset de Kaggle (incluido en el drive)
+    └── reporte_cardio
 ```
 
 ---
